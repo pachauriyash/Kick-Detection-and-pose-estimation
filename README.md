@@ -43,7 +43,11 @@ https://github.com/pachauriyash/Kick-Detection-and-pose-estimation/assets/863531
 
 ## References
 https://developers.google.com/mediapipe/solutions/vision/pose_landmarker/python
+<br />
 https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md
+<br />
 https://github.com/nachi-hebbar/Object-Detection-Yolo-V3-Darknet/blob/main/YOLO_V3.ipynb
+<br />
 https://shawntng.medium.com/multi-person-pose-estimation-with-mediapipe-52e6a60839dd
+<br />
 https://colab.research.google.com/drive/19txHpN8exWhstO6WVkfmYYVC6uug_oVR?authuser=2&hl=ko
